@@ -25,16 +25,17 @@ An ESP32-based smart medicine reminder system that helps patients take medicines
 
 ## Pin Configuration
 
-| **Component **         | **ESP32 Pin **|
-| Buzzer                 | GPIO 4    |
-| LED 1 – Paracetamol    | GPIO 2    |
-| LED 2 – Dolo 65        | GPIO 15   |
-| LED 3 – B-Hold         | GPIO 5    |
-| Button 1 – Paracetamol | GPIO 18   |
-| Button 2 – Dolo 65     | GPIO 19   |
-| Button 3 – B-Hold      | GPIO 23   |
-| OLED Display           | I²C       |
-| DS3231 RTC             | I²C       |
+| Component | ESP32 Pin |
+|---|---|
+| Buzzer | GPIO 4 |
+| LED 1 – Paracetamol | GPIO 2 |
+| LED 2 – Dolo 65 | GPIO 15 |
+| LED 3 – B-Hold | GPIO 5 |
+| Button 1 – Paracetamol | GPIO 18 |
+| Button 2 – Dolo 65 | GPIO 19 |
+| Button 3 – B-Hold | GPIO 23 |
+| OLED Display | I²C |
+| DS3231 RTC | I²C |
 
 ## Software Used
 
