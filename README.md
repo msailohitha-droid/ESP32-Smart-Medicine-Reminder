@@ -37,11 +37,11 @@ If the medicine is not taken within the defined time, the ESP32 detects the miss
 
 ## Project Setup
 
-![Project Setup](Images/Project_Setup.jpg)
+![Project Setup](Images/Project_Setup.jpeg)
 
 ## Telegram Notification
 
-![Telegram Notification](Images/Telegram_Notification.jpg)
+![Telegram Notification](Images/Telegram_Notification.jpeg)
 
 ## Future Improvements
 
